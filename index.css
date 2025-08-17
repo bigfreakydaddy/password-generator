@@ -1,0 +1,55 @@
+body {
+    
+    margin-left: 10px;
+    background-color: #FFFBEB;
+    font-family: "Mozilla Headline", Courier, monospace;
+   color: #1F2937;
+    margin: 0 10px;
+    max-width: 400px;
+    
+}
+
+button{
+    font-family: 'Courier New', Courier, monospace;
+    color: wheat;
+    background-color: #F43F5E;
+    border-radius: 5px;
+    margin-top: 20px;
+    border: 0px solid #FFFBEB;
+    padding: 10px 40px;
+    white-space: no-wrap;
+    font-size: small;
+}
+
+#password-display{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    width: auto;
+        }
+        
+#password1{
+    margin-top: 25px;
+    border: 0px solid wheat;
+    text-align: center;
+    font-size: smaller;
+    
+    color: #F43F5E;
+    background-color: #FCD34D;
+    
+    
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+
+#password2{
+ margin-top: 25px;
+    border: 0px solid wheat;
+    text-align: center;
+    font-size: smaller;
+    
+    color: #F43F5E;
+    background-color: #FCD34D;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
